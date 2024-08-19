@@ -1,6 +1,8 @@
 # Combine all transactions with same To/From currency and gebyr to one entry pr year
 # Import all transactions to kryptosekken
 # Export all transactions from kryptosekken for a specific year (https://www.kryptosekken.no/regnskap/eksport?grense=0)
+# Import $ImportReady to Kryptosekken 
+¤ Example script, use with caution
 #Files
 $FileName         = "transactions-2023"
 $PathToFile       = "c:\temp\Krytosekken\"
